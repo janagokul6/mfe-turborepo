@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@mfe/ui": ["packages/ui/src/index.ts"],
+      "@mfe/shared": ["packages/shared/src/index.ts"]
+    }
+  }
+}
